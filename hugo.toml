@@ -1,5 +1,4 @@
-baseURL = 'https://example.org/'
-
+baseURL = 'https://shootaa.github.io/myBlog/'
 title = 'My New Hugo Site'
 theme = "beautifulhugo"
 publishDir = "docs"
