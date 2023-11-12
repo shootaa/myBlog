@@ -1,5 +1,6 @@
-baseURL = "https://shoota.github.io/home/"
+baseURL = 'https://shootaa.github.io/myBlog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "beautifulhugo"
 publishDir = "docs"
+canonifyurls = true
