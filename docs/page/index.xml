@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shoooo</title>
-    <link>https://shootaa.github.io/myBlog/</link>
-    <description>Recent content on Shoooo</description>
+    <title>Pages on Shoooo</title>
+    <link>https://shootaa.github.io/myBlog/page/</link>
+    <description>Recent content in Pages on Shoooo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://shootaa.github.io/myBlog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://shootaa.github.io/myBlog/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>https://shootaa.github.io/myBlog/page/about/</link>
