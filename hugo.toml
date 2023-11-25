@@ -3,6 +3,7 @@ publishDir = "docs"
 canonifyurls = true
 DefaultContentLanguage = "en"
 title = "Shoooo"
+summaryLength = 10
 # Using theme as git submodule 
 theme = "beautifulhugo"
 # Or when using theme as hugo module
@@ -81,11 +82,6 @@ homeTitle = "Hi I'm Shoooo" # Set a different text for the header on the home pa
   # medium = "username"
   # discord = "invite code (https://discord.gg/XXXXXXX)"
   # strava = "userid"
-
-[[menu.main]]
-    name = "Blog"
-    url = ""
-    weight = 1
 
 [[menu.main]]
     name = "About"

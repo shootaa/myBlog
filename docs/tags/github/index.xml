@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shoooo</title>
-    <link>https://shootaa.github.io/myBlog/</link>
-    <description>Recent content on Shoooo</description>
+    <title>GitHub on Shoooo</title>
+    <link>https://shootaa.github.io/myBlog/tags/github/</link>
+    <description>Recent content in GitHub on Shoooo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 15 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://shootaa.github.io/myBlog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://shootaa.github.io/myBlog/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>このブログについて</title>
       <link>https://shootaa.github.io/myBlog/post/20231123/</link>
       <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://shootaa.github.io/myBlog/post/20231123/</guid>
       <description>使用技術 Hugo + GitHub pagesを使用。 Hugoとは、Go言語で開発された静的サイトジェネレータらしい。 特にビルドが早いことで有名らしい。 また、投稿もmd形式ででき、 テンプレートのデザインも種類が豊富で良かったのでこれを使うことにした。 GitHub pagesを使用した理由はとにかくお金をかけたくなかったのと、GitHub上で利用できる手軽さから。</description>
-    </item>
-    <item>
-      <title>About me</title>
-      <link>https://shootaa.github.io/myBlog/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shootaa.github.io/myBlog/page/about/</guid>
-      <description>エンジニアをしてもうすぐ3年になります。
-仕事では主にバックエンド側の開発を行うことが多いです。
-趣味で柔術をやっています。
-しずかなインターネット</description>
     </item>
   </channel>
 </rss>
